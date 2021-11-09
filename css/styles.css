@@ -1,4 +1,4 @@
-kbody {
+body {
   font-family: "Montserrat";
   text-align: center;
 }
@@ -157,7 +157,6 @@ p {
 #footer {
   background-color: #ffffff;
   padding: 7% 15% 0%;
-
 }
 
 #footer .fab,
